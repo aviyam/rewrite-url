@@ -1,0 +1,11 @@
+{
+  "name": "rewrite url",
+  "version": "1.0",
+  "description": "rewrite the url",
+  "background_page": "dostuff.html",
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "tabs", "https://*.haaretz.co.il/" ]
+}
