@@ -1,2 +1,4 @@
 # rewrite-url
-rewrites the url
+
+project page:
+https://aviyam.github.io/rewrite-url/
